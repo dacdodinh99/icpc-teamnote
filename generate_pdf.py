@@ -3,7 +3,7 @@ import subprocess
 import os
 
 code_dir = "code"
-title = "C'est BON! Team Notes"
+title = "Vaccinated Team Notes"
 
 def get_sections():
     sections = []
